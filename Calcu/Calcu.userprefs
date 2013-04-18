@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Desktop\repos\MainWindow.cs">
+    <Files>
+      <File FileName="Calcu\Principal.cs" Line="1" Column="1" />
+      <File FileName="Calcu\MainWindow.cs" Line="1" Column="1" />
+      <File FileName="Calcu\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Desktop\repos\MainWindow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
